@@ -1,7 +1,6 @@
-# gra_planszowa_pentago
-projekt Podstawy Programowania, Politechnika Gdańska ACiR semestr 1
-
-autor: Tobiasz Mańkowski
-
-projekt ma na celu symulacje działania gry planszowej "Pentago" oraz "kółko i krzyżyk". Instrukcja działania programu znajduje się wewnątrz konsoli po uruchomieniu. 
+# Board Game: Pentago Simulation
+Project: Introduction to Programming
+Gdańsk University of Technology – ACiR, Semester 1
+Author: Tobiasz Mańkowski
+This project aims to simulate the gameplay of the board games Pentago and Tic-Tac-Toe. Instructions for using the program are displayed in the console upon launch.
 
